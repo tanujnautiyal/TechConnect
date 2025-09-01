@@ -39,46 +39,11 @@ TechConnect is built using the MERN stack:
 | Styling | TailwindCSS | Frontend component styling |
 
 
-## Installation
-
-### Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/uamalik09/TechConnect.git
-   cd TechConnect
-   ```
-
-2. **Backend Setup**
-   ```bash
-   # Navigate to the backend directory
-   cd Backend
-
-   # Install dependencies
-   npm install
-
-   # Start the server
-   nodemon index.js
-   ```
-
-3. **Frontend Setup**
-   ```bash
-   # Open a new terminal and navigate to frontend
-   cd Frontend
-
-   # Install dependencies
-   npm install
-
-   # Start the development server
-   npm run dev
-   ```
 
 
 ## Contributors
-- Aryan (Mentor)
-- Umer (Mentor)
-- Peteti Hanvitha (Mentee)
-- Padmavati M Kudal (Mentee)
-- Nelluri Thanmaya Sri (Mentee)
+- Tanuj
+- Umer 
+
 
 
